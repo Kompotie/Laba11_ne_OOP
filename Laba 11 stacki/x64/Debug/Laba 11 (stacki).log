@@ -1,0 +1,6 @@
+﻿  Laba 11 (stacki).cpp
+C:\Users\skory\source\repos\Laba 11 (stacki)\Laba 11 (stacki).cpp(87,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\skory\source\repos\Laba 11 (stacki)\Laba 11 (stacki).cpp(100,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\skory\source\repos\Laba 11 (stacki)\Laba 11 (stacki).cpp(115,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\skory\source\repos\Laba 11 (stacki)\Laba 11 (stacki).cpp(126,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba 11 (stacki).vcxproj -> C:\Users\skory\source\repos\Laba 11 (stacki)\x64\Debug\Laba 11 (stacki).exe
